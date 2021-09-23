@@ -1,0 +1,17 @@
+table{
+   width:100%; /*El atributo width establece la anchura de visualización de la imagen */
+   border: 1px solid #000; /* bordes y tiene tres paramegros 1 grosor, 2 tipo de linea, 3 color */
+   border-collapse: collapse; /* lo que hace es poner un borde sobre otro borde que da la impresion de ser una sola linea*/
+}
+th{
+    width: 33%;
+    border: 1px solid #000;
+    background: #3B83BD;/*para dar color al fondo*/
+    color: white; /*para dar color al texto*/
+}
+td{
+    width: 33%;
+    border: 1px solid #000;
+    background: yellowgreen;
+    
+}
