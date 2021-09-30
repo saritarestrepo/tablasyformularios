@@ -1,0 +1,16 @@
+/*selector universal */
+* {
+    color: blueviolet;
+}
+/* selector clase */
+.gold{
+    color: red;
+}
+/*selector de id*/
+#hoja {
+    color: yellowgreen;
+}
+/*selector descendiente*/
+div p {
+    color: teal;
+}
