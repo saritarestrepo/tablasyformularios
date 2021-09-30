@@ -11,6 +11,10 @@
     color: yellowgreen;
 }
 /*selector descendiente*/
-div p {
+div article p, h1, div h2 {
     color: teal;
+}
+/*combinacion de selectores*/
+p, h3, h2 {
+    color: brown;
 }
